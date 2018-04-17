@@ -326,7 +326,7 @@
 		{
 			"importpath": "golang.org/x/net/context",
 			"repository": "https://go.googlesource.com/net",
-			"revision": "34ff4cd5e6de00702100a0ab3bb73de8de5ab35d",
+			"revision": "8d16fa6dc9a85c1cd3ed24ad08ff21cf94f10888",
 			"branch": "master",
 			"path": "/context"
 		},
