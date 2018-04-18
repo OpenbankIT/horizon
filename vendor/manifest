@@ -338,6 +338,13 @@
 			"path": "/http2"
 		},
 		{
+			"importpath": "golang.org/x/net/http/httpguts",
+			"repository": "https://go.googlesource.com/net",
+			"revision": "8d16fa6dc9a85c1cd3ed24ad08ff21cf94f10888",
+			"branch": "master",
+			"path": "/http2"
+		},
+		{
 			"importpath": "golang.org/x/net/netutil",
 			"repository": "https://go.googlesource.com/net",
 			"revision": "8d16fa6dc9a85c1cd3ed24ad08ff21cf94f10888",
