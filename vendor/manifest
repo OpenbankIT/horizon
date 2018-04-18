@@ -356,13 +356,7 @@
 			"repository": "https://gopkg.in/gorp.v1",
 			"revision": "c87af80f3cc5036b55b83d77171e156791085e2e",
 			"branch": "master"
-		},
-		{
-			"importpath": "gopkg.in/tylerb/graceful.v1",
-			"repository": "https://gopkg.in/tylerb/graceful.v1",
-			"revision": "119c58e176bce26fd40698146d9a106c8f1723a5",
-			"branch": "master"
-		},
+		},		
 		{
 			"importpath": "gopkg.in/yaml.v2",
 			"repository": "https://gopkg.in/yaml.v2",
