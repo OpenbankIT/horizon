@@ -286,7 +286,7 @@
 		{
 			"importpath": "github.com/visionmedia/go-debug",
 			"repository": "https://github.com/visionmedia/go-debug",
-			"revision": "bfacf9d8a444b50f5d7ae47727544e775486966f",
+			"revision": "ff4a55a20a86994118644bbddc6a216da193cc13",
 			"branch": "master"
 		},
 		{
@@ -326,28 +326,21 @@
 		{
 			"importpath": "golang.org/x/net/context",
 			"repository": "https://go.googlesource.com/net",
-			"revision": "8d16fa6dc9a85c1cd3ed24ad08ff21cf94f10888",
+			"revision": "34ff4cd5e6de00702100a0ab3bb73de8de5ab35d",
 			"branch": "master",
 			"path": "/context"
 		},
 		{
 			"importpath": "golang.org/x/net/http2",
 			"repository": "https://go.googlesource.com/net",
-			"revision": "8d16fa6dc9a85c1cd3ed24ad08ff21cf94f10888",
+			"revision": "b6d7b1396ec874c3b00f6c84cd4301a17c56c8ed",
 			"branch": "master",
 			"path": "/http2"
 		},
 		{
-			"importpath": "golang.org/x/net/http/httpguts",
-			"repository": "https://go.googlesource.com/net",
-			"revision": "8d16fa6dc9a85c1cd3ed24ad08ff21cf94f10888",
-			"branch": "master",
-			"path": "/httpguts"
-		},
-		{
 			"importpath": "golang.org/x/net/netutil",
 			"repository": "https://go.googlesource.com/net",
-			"revision": "8d16fa6dc9a85c1cd3ed24ad08ff21cf94f10888",
+			"revision": "b6d7b1396ec874c3b00f6c84cd4301a17c56c8ed",
 			"branch": "master",
 			"path": "/netutil"
 		},
